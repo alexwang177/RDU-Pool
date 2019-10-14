@@ -43,7 +43,8 @@ app.post('/api/form', (req, res) => {
       post: 587,
       auth: {
         user: 'PoolPartyDuke@gmail.com',
-        pass: 'ChodeMuncher69'
+        //Password Protected
+        pass: ''
       }
     })
 

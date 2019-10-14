@@ -1,10 +1,10 @@
-# React Express Starter Pack
+## App Info
 
-> Create full stack apps with React and Express. Run your client and server with a single command. 
+Allows you to find fellow college students who want to carpool to RDU International.
 
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
+## Link to try it out!!!
+
+https://obscure-inlet-22867.herokuapp.com/
 
 ## Quick Start
 
@@ -27,12 +27,9 @@ npm run client
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
 
-## App Info
-
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Alex Wang
 
 ### Version
 
